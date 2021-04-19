@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T12:02:21.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76" etag="3LCxqP2DIPRA8dtWgwGF" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T12:41:47.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76" etag="ZCp_yTApkW2wl0yVQGm8" version="14.5.4" type="github">
   <diagram id="eLWv3oav7MvWbBoAbBTL" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -11,25 +11,25 @@
           <mxGeometry x="40" y="140" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-3" value="3. Minimundo&amp;nbsp; Emp-Proj-Depto" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="40" y="260" width="480" height="40" as="geometry" />
+          <mxGeometry x="40" y="692" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-4" value="4. Minimundo Prestador Serviços" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="40" y="380" width="480" height="40" as="geometry" />
+          <mxGeometry x="40" y="768" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-5" value="&lt;b&gt;PRESTADORS&lt;/b&gt;(&lt;u&gt;CPF&lt;/u&gt;, NOME, ENDER)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="40" y="460" width="500" height="20" as="geometry" />
+          <mxGeometry x="40" y="814" width="500" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-6" value="&lt;b&gt;HORISTA&lt;/b&gt;(&lt;u&gt;CPF&lt;/u&gt;, CUSTOH, HORAST)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="40" y="500" width="440" height="20" as="geometry" />
+          <mxGeometry x="40" y="854" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-7" value="&lt;b&gt;MENSALISTA&lt;/b&gt;(&lt;u&gt;CPF&lt;/u&gt;, SAL, TEL)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="40" y="570" width="310" height="20" as="geometry" />
+          <mxGeometry x="40" y="924" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-9" value="&lt;b&gt;TAREFA&lt;/b&gt;(&lt;u&gt;NT&lt;/u&gt;, NOME, NHORAS)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="40" y="700" width="430" height="20" as="geometry" />
+          <mxGeometry x="40" y="1119" width="430" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-11" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="40" y="650" width="310" height="21" as="geometry" />
+          <mxGeometry x="40" y="1004" width="310" height="21" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-8" value="&lt;b&gt;RESP&lt;/b&gt;(CPF, NT, COMISSAO)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="UM1YzwA6xKYkU8drU5Jd-11" vertex="1">
           <mxGeometry width="310" height="20" as="geometry" />
@@ -41,13 +41,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-12" value="HORISTA[CPF]=&amp;gt;PS[CPF]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="120" y="530" width="350" height="20" as="geometry" />
+          <mxGeometry x="120" y="884" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-13" value="MENSALISTA[CPF]=&amp;gt;PS[CPF]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="120" y="600" width="350" height="20" as="geometry" />
+          <mxGeometry x="120" y="954" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KgltlfOep18_yvBB8d4X-1" value="JÁ ESTÁ PRONTO ?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="330" height="20" as="geometry" />
+          <mxGeometry x="40" y="740" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-3" value="RESP[CPF]=&amp;gt;MENSALISTA[CPF]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1034" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-4" value="RESP[NT]=&amp;gt;TAREFA[NT]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1064" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-5" value="&lt;b&gt;EDITORA&lt;/b&gt;(&lt;u&gt;CODEDITORA&lt;/u&gt;, NOME)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-6" value="LIVRO[CODCAT]=&amp;gt;CAT[CODCAT]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="279" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-7" value="&lt;b&gt;CLIENTE&lt;/b&gt;(&lt;u&gt;CODCLIENTE&lt;/u&gt;, NOME)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="361" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-8" value="&lt;b&gt;ESCREVE&lt;/b&gt;(&lt;u&gt;CODAUTOR&lt;/u&gt;, CODLIVRO, DATA)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="219" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-9" value="&lt;b&gt;LIVRO&lt;/b&gt;(CODLIVRO,&amp;nbsp;&lt;u&gt;CODAUTOR&lt;/u&gt;, CODEDITORA ,TITULO, CODCATEGORIA)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="251" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-11" value="&lt;b&gt;CATEGORIA&lt;/b&gt;(&lt;u&gt;CODCATEGORIA&lt;/u&gt;, NOME)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="329" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-12" value="&lt;b&gt;EXEMPLAR&lt;/b&gt;(&lt;u&gt;CODEXEMPLAR&lt;/u&gt;, CODLIVRO, CODESTANTE, DATAAQUISIÇÃO)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="387" width="850" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-13" value="LIVRO[CODCAT]=&amp;gt;CAT[CODCAT]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="299" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-14" value="&lt;b&gt;EMPRESTIMO&lt;/b&gt;(CODEMP,&amp;nbsp;&lt;u&gt;CODCLIENTE&lt;/u&gt;, CODEXEMPLAR, CODBIBLIOTEC, DATAEMP, DATADEV, VALORMULTA )" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="419" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-15" value="&lt;b&gt;ESTANTE&lt;/b&gt;(&lt;u&gt;CODESTANTE&lt;/u&gt;, CODBIBLIOTEC)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KgltlfOep18_yvBB8d4X-16" value="&lt;b&gt;BIBLIOTECARIA&lt;/b&gt;(CODBIBLIOTEC, NOME)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="440" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
