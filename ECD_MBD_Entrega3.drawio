@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T23:08:29.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76" etag="nQOWhHew4Mv25JwxlsuQ" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T12:02:21.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76" etag="3LCxqP2DIPRA8dtWgwGF" version="14.5.4" type="github">
   <diagram id="eLWv3oav7MvWbBoAbBTL" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -16,22 +16,22 @@
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-4" value="4. Minimundo Prestador Serviços" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="40" y="380" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UM1YzwA6xKYkU8drU5Jd-5" value="PRESTADORS(&lt;u&gt;CPF&lt;/u&gt;, NOME, ENDER)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="UM1YzwA6xKYkU8drU5Jd-5" value="&lt;b&gt;PRESTADORS&lt;/b&gt;(&lt;u&gt;CPF&lt;/u&gt;, NOME, ENDER)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="40" y="460" width="500" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UM1YzwA6xKYkU8drU5Jd-6" value="HORISTA(&lt;u&gt;CPF&lt;/u&gt;, CUSTOH, HORAST)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="80" y="500" width="440" height="20" as="geometry" />
+        <mxCell id="UM1YzwA6xKYkU8drU5Jd-6" value="&lt;b&gt;HORISTA&lt;/b&gt;(&lt;u&gt;CPF&lt;/u&gt;, CUSTOH, HORAST)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="40" y="500" width="440" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UM1YzwA6xKYkU8drU5Jd-7" value="MENSALISTA(&lt;u&gt;CPF&lt;/u&gt;, SAL, TEL)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="80" y="570" width="310" height="20" as="geometry" />
+        <mxCell id="UM1YzwA6xKYkU8drU5Jd-7" value="&lt;b&gt;MENSALISTA&lt;/b&gt;(&lt;u&gt;CPF&lt;/u&gt;, SAL, TEL)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="40" y="570" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UM1YzwA6xKYkU8drU5Jd-9" value="TAREFA(&lt;u&gt;NT&lt;/u&gt;, NOME, NHORAS)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="UM1YzwA6xKYkU8drU5Jd-9" value="&lt;b&gt;TAREFA&lt;/b&gt;(&lt;u&gt;NT&lt;/u&gt;, NOME, NHORAS)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="40" y="700" width="430" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-11" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="650" width="310" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="UM1YzwA6xKYkU8drU5Jd-8" value="RESP(CPF, NT, COMISSAO)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="UM1YzwA6xKYkU8drU5Jd-11" vertex="1">
+        <mxCell id="UM1YzwA6xKYkU8drU5Jd-8" value="&lt;b&gt;RESP&lt;/b&gt;(CPF, NT, COMISSAO)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="UM1YzwA6xKYkU8drU5Jd-11" vertex="1">
           <mxGeometry width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UM1YzwA6xKYkU8drU5Jd-10" value="" style="endArrow=none;html=1;fontSize=20;entryX=0.197;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UM1YzwA6xKYkU8drU5Jd-11" target="UM1YzwA6xKYkU8drU5Jd-8" edge="1">
